@@ -1,0 +1,11 @@
+{
+    "platforms":  {
+                      "windows-x86_64":  {
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQnZtR3BGTkdKTHB6ZjYvY1NXTjFWRFRkemRlZWhJM0pNZnN2cCtzSS9NUmhaS3p6VXdLckc4TmhNQWpRK083b3c0VDRzNUg0bGs2NVhCcURTcWRGU2FYMTRxM284ZHdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3NDcwODMzCWZpbGU6RWFzeUNvaW4gVG90ZW1fMS4xLjBfeDY0LXNldHVwLmV4ZQpuTHE3d1BFTlhVRmthZDRRQUo5NE5FS2VtUlhTYVBKbVQrS3lUYzYyU1pCQ1d2aGFsbjNWU2MzWUI5bUNIazhLNUc0TFRJMEUxcVpLVmx2M09CNXdCQT09Cg==",
+                                             "url":  "https://github.com/PaoloViero/easycoin-totem-releases/releases/download/v1.1.0/EasyCoin Totem_1.1.0_x64-setup.exe"
+                                         }
+                  },
+    "pub_date":  "2026-08-23T07:40:58Z",
+    "version":  "1.1.0",
+    "notes":  "Aggiornamento EasyCoin Totem versione 1.1.0."
+}
