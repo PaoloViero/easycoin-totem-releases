@@ -1,11 +1,11 @@
 {
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQnZtR3BGTkdKTGpTeENyY2NnWHhDaTJnWkI5eVJqaUVleEd6UGRnbTRYVUpHU1BBMmNWTm1BL3l1b3YrYVhCUDd5OGNuY3FkUVp6S0poblF4Z1pFbE42ajNzNStzSlFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3NDk5MjE3CWZpbGU6RWFzeUNvaW4gVG90ZW1fMS4yLjVfeDY0LXNldHVwLmV4ZQo5VHJZRXV5U0tLc21rR0RVM3dQMDFEaElMOUVYNXBhbFpYV25VbVhtbmhaOHNxVXg4ajcwTkJrUUZFOHNCSzR2L1J3WTZTUU1lVitUL05kRXlWNE1Cdz09Cg==",
-                                             "url":  "https://github.com/PaoloViero/easycoin-totem-releases/releases/download/v1.2.5/EasyCoin.Totem_1.2.5_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQnZtR3BGTkdKTG51dUlqOEFqTlo2YVV4Q2RMV0JJSHp2amRzYlZTOFJRWFBOaWxiblErYjdYR0xxbXpaYjE0bDNxOFV0ZVE0K3gvc2xuSVJOdk03ckxGUzh5d2Z5R3dBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3NTAwNDI5CWZpbGU6RWFzeUNvaW4gVG90ZW1fMS4yLjZfeDY0LXNldHVwLmV4ZQo0bXgwanNsK295cVcrbnd5UDRrc3hQM2tMOVZlSWRyd3BGaEkzcUlPNEl4N3VKVHBIekxtRnRhNzV3S3picG1SaEJ0RUJFWDdNOHlCc2o3TTc1RXhBdz09Cg==",
+                                             "url":  "https://github.com/PaoloViero/easycoin-totem-releases/releases/download/v1.2.6/EasyCoin.Totem_1.2.6_x64-setup.exe"
                                          }
                   },
-    "pub_date":  "2026-08-23T15:33:52Z",
-    "version":  "1.2.5",
-    "notes":  "Aggiornamento EasyCoin Totem versione 1.2.5."
+    "pub_date":  "2026-08-23T15:54:05Z",
+    "version":  "1.2.6",
+    "notes":  "Aggiornamento EasyCoin Totem versione 1.2.6."
 }
