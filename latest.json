@@ -1,11 +1,11 @@
 {
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQnZtR3BGTkdKTHBLRVkxZ1ZjZm4zNDZZK3BnWlJPdFZYOHhERVdRM0hQcUZEZUdNNUQxWnlLQ011SVlLaEpoN3EySWZuQWg5NTVtVTNVampkNFB6WW5zWWpMaHJsZUFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4MDI1Mjg3CWZpbGU6RWFzeUNvaW4gVG90ZW1fMS4xNC45X3g2NC1zZXR1cC5leGUKQkJRNzB2SmJmVFNXdDBVNnR4Y1g4dDZqOHJkQVc0ZlIvOUhEZWIwZ2owUFAwUmJTcE5BNkZUZ3gxL1NSSjByTnNpaS9RUFVEcnlqbTBQTkEySmJHQlE9PQo=",
-                                             "url":  "https://github.com/PaoloViero/easycoin-totem-releases/releases/download/v1.14.9/EasyCoin.Totem_1.14.9_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQnZtR3BGTkdKTHExM2sxMklsTFd2N1NhL2d4YnNPZVpPeVR4TUptN2RPNWlkRXVycnYxVjVJUTIwcmNLeU9aQ3orR3l2ZDkxNDNYM2E5blovRTdhazZtVHdkdWt1SmdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4MDMzMzMwCWZpbGU6RWFzeUNvaW4gVG90ZW1fMS4xNC4xMF94NjQtc2V0dXAuZXhlClJnczJkbW5udTVJa1ZXbjNEbWFPWThSdWIwVW41R09oWnErbXRBanpGYzZYN3FYYTFNaUJJYlFtSUJ1RkJ4R0NySUFnZXR0WnFpRFY1SlB0N0pBV0RBPT0K",
+                                             "url":  "https://github.com/PaoloViero/easycoin-totem-releases/releases/download/v1.14.10/EasyCoin.Totem_1.14.10_x64-setup.exe"
                                          }
                   },
-    "pub_date":  "2026-08-29T17:41:56Z",
-    "version":  "1.14.9",
-    "notes":  "Aggiornamento EasyCoin Totem versione 1.14.9."
+    "pub_date":  "2026-08-29T19:55:57Z",
+    "version":  "1.14.10",
+    "notes":  "Fix pagamento carta di credito: chiamata diretta al servizio locale del totem, niente piu' blocco su APPOGGIA CARTA."
 }
