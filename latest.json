@@ -1,11 +1,11 @@
 {
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQnZtR3BGTkdKTGk2aGgxcFNNNjZoREFSZ3lxKy9zdkhYdmh6Snk4ajQwSHYvaTZGY0M3T04rQ1hYUDdFZTlBWXB0OUVlTkIvRmZSYk9WSWJxSVg5RnVyRno5Q1pubnc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NzQ5MTQyCWZpbGU6RWFzeUNvaW4gVG90ZW1fMi4zLjJfeDY0LXNldHVwLmV4ZQptdlNDS3VWaWVVVHdGMDJKejg1Zm5hdnFUbEowM2JuTFRiR3Y5ejBDWktRWU5lY2oxR0UxU3FZK2JqSzdkMGJNL2FTN09QdGFzbnFRZlYrKytUUTFCQT09Cg==",
-                                             "url":  "https://github.com/PaoloViero/easycoin-totem-releases/releases/download/v2.3.2/EasyCoin.Totem_2.3.2_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQnZtR3BGTkdKTHZTc0hTRlAyemNSUzY1Vmduc3VFY2xMbGVJRnpHYnEvSEtPRitsSGZmK0g3RkZsNDRaTFFEejhPTC9VR2x6aENMTERQS3EwcXRSS1ZabWRwdGU1c0EwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NzUwMTUxCWZpbGU6RWFzeUNvaW4gVG90ZW1fMi4zLjNfeDY0LXNldHVwLmV4ZQpxWGVmYWJHZ0syZWJONUF2R0JYTXg0aWY2aHQ0Q1IwbVk1S2xaU0xWdU5JY0c4MEhWMStEZUUwcksxMHI3ZStwbFhEUHZUQis5UkV1dVVXTmgvMkFCUT09Cg==",
+                                             "url":  "https://github.com/PaoloViero/easycoin-totem-releases/releases/download/v2.3.3/EasyCoin.Totem_2.3.3_x64-setup.exe"
                                          }
                   },
-    "pub_date":  "2026-09-18T16:33:02Z",
-    "version":  "2.3.2",
-    "notes":  "Aggiornamento EasyCoin Totem versione 2.3.2: corregge letture RFID fantasma."
+    "pub_date":  "2026-09-18T16:49:40Z",
+    "version":  "2.3.3",
+    "notes":  "Aggiornamento EasyCoin Totem versione 2.3.3: rilascio Nome Terminale per hardware sostituito."
 }
