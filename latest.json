@@ -1,11 +1,11 @@
 {
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQnZtR3BGTkdKTGxnSWtnbGN1NkFGSGZMajByRUZjekFFQlY5Tk5jalVRVW9mellsNlFUR0d6Q1ZjemQ4cjZNZ1p3TzZnVzlaOEQ2bDJ1eDQxK1JPY0tBU2NweTRPMGcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5OTAwNzIxCWZpbGU6RWFzeUNvaW4gVG90ZW1fMi4zLjVfeDY0LXNldHVwLmV4ZQo3VVBLRmFCeDEwWkt5WUtvbEs5RGxhVjNBWEpaKzYybi96c1Zsb2E5UVNzeXlncElDQk0vaEZLT0tWZXJoekNZNStISkVhL2hIckhMWklSSnRRc09Bdz09Cg==",
-                                             "url":  "https://github.com/PaoloViero/easycoin-totem-releases/releases/download/v2.3.5/EasyCoin.Totem_2.3.5_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQnZtR3BGTkdKTGsyVWh1d3VXWjBtNVdZb3J4QjhiN2ErcGdsUHl1THcvSWl0RmpkNlFDUTh0d0lKNjNNNzlYWitQVHplU2pwUHdzcFNXcFFybWgzTTluS1lrdzNPQ2dZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5OTIxMDgwCWZpbGU6RWFzeUNvaW4gVG90ZW1fMi4zLjZfeDY0LXNldHVwLmV4ZQpUSzZWQkF5cnhjR1JNbzNWK0ZGMlpCY2ZwTEpoS1Bpc0FjOStkZ1BxUjdBbGIrTDFIU3lKYmFNVVNiSFh2bHNDa3F4UHBLZHJwN3hOeUxuaUE1dzNBZz09Cg==",
+                                             "url":  "https://github.com/PaoloViero/easycoin-totem-releases/releases/download/v2.3.6/EasyCoin.Totem_2.3.6_x64-setup.exe"
                                          }
                   },
-    "pub_date":  "2026-09-20T10:39:10Z",
-    "version":  "2.3.5",
-    "notes":  "Corregge le letture RFID fantasma: esclude il codice segnaposto 000000000000."
+    "pub_date":  "2026-09-20T16:18:38Z",
+    "version":  "2.3.6",
+    "notes":  "Ricompilazione pulita (nessuna modifica funzionale rispetto alla 2.3.5)."
 }
