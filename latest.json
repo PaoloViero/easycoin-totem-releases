@@ -1,11 +1,11 @@
 {
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQnZtR3BGTkdKTGdmRkVBZGNmTm5Hc2JTVXJxK1FsQWlHVm11U1ZrWU5hdVRyZitLMmxNNUI5eno1RzlBVUJPNzlBenpzeXVQdmtFTkEvVDJMdHZMbGJGcmpBT0FSZ0FVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNDUwNzM3CWZpbGU6RWFzeUNvaW4gVG90ZW1fMi4zLjdfeDY0LXNldHVwLmV4ZQo5bE1xOVZlSUswSlFkVHc1RTF0ZXM5ejlyZWs0YVRtSzdqZGxNR0tWOUI0WTNMYXRnaU1GYjlMcEpzd0QwMWlqdlhFRm02Ky9sNDVuLy9IQ3NPSDNDdz09Cg==",
-                                             "url":  "https://github.com/PaoloViero/easycoin-totem-releases/releases/download/v2.3.7/EasyCoin.Totem_2.3.7_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQnZtR3BGTkdKTHJGRmhXdFdCczVHSFVZUllhaXBIZngySlhqenNRY2dtSmUwK01Yc0NBMW84V29FY2s2OGhzQlkvQ1VmMzl6UzhTeUdMNVBrTlpqR0RtdUMyZld2ZmdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMjY2MTQ1CWZpbGU6RWFzeUNvaW4gVG90ZW1fMi4zLjhfeDY0LXNldHVwLmV4ZQovaWlZSWREKzhEVW04ZTJZeCtla1BCVzNOSHc5ZE11STB1bUhpZ3B1WWkvM3UwdDY5YWxHSUVLNUExRXlXY0VLS1QzQjh2bjN5TXpHUUpocmtqcGNCdz09Cg==",
+                                             "url":  "https://github.com/PaoloViero/easycoin-totem-releases/releases/download/v2.3.8/EasyCoin.Totem_2.3.8_x64-setup.exe"
                                          }
                   },
-    "pub_date":  "2026-09-26T19:26:17Z",
-    "version":  "2.3.7",
-    "notes":  "Aggiornamento EasyCoin Totem versione 2.3.7."
+    "pub_date":  "2026-10-06T05:57:07Z",
+    "version":  "2.3.8",
+    "notes":  "Aggiornamento EasyCoin Totem versione 2.3.8: menu Canale per ogni taglio in Impostazioni (valute diverse dall\u0027euro)."
 }
